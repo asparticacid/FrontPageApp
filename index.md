@@ -26,8 +26,9 @@ Syntax highlighted code block
 [Link](url) and
 ```
 
- ![Image](https://github.com/asparticacid/FrontPageApp/res/newplot.png)
+![Image](https://github.com/asparticacid/FrontPageApp/res/newplot.png)
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
