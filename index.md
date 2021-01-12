@@ -26,7 +26,9 @@ Syntax highlighted code block
 [Link](url) and
 ```
 
-![Image](https://github.com/asparticacid/FrontPageApp/blob/gh-pages/res/newplot.png)
+
+![a picture](https://raw.githubusercontent.com/asparticacid/FrontPageApp/gh-pages/res/newplot%20.png)
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
  
